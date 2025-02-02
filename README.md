@@ -1,8 +1,6 @@
 # Intern_at_CodSoft
 This repository contains Java programs developed during my internship at CodSoft. Each task is designed to demonstrate logical problem-solving, user-centric features, and programming fundamentals.
 
-...
-
 ## TASK 1: Number Game
 An interactive game where:
 
